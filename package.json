@@ -1,0 +1,33 @@
+{
+  "name": "M6D7-HW",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-list-endpoints": "^6.0.0",
+    "express-validator": "^6.12.2",
+    "fs-extra": "^10.0.0",
+    "mongoose": "^6.0.9",
+    "nodemon": "^2.0.13",
+    "uniqid": "^5.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": " nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlazejakPiotr/M6D7-HW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlazejakPiotr/M6D7-HW/issues"
+  },
+  "homepage": "https://github.com/BlazejakPiotr/M6D7-HW#readme"
+}
